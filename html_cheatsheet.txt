@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="design.css" />
+^ link stylesheet to html index file

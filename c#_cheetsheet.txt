@@ -1,0 +1,44 @@
+
+Division with decimal places:
+double mynumber = 10.0 / 3.0;
+Console.WriteLine(mynumber);
+
+
+//add commas between array numbers.
+string commaSeperatedNumbers = String.Join(',', numbers);
+
+return commaSeperatedNumbers;
+
+console.writeline(ArrayToString(numbers));
+
+// [1,2,3,4] to array of int
+string[] strValues = str.Split(',');
+
+strValues[0] = strValues[0].Substring(1);
+
+for each (var strValue in strValues)
+	{
+	Consolw.WriteLine(strValue);
+	}
+
+// "hello"
+Substring (1) // would give "ello"
+Substring (2) // would give "llo"
+
+
+
+Remainder:
+double mynumber = 10.0 % 3.0;
+Console.WriteLine(mynumber);
+
+
+highlight lines and hold alt to move lines.
+
+cntrl / to comment out a block of code
+cntrl L or cntrl x to delete line 
+
+
+for (int star = 0; star <= rowstar; star++)
+				{
+					Console.Write("*");
+				}
