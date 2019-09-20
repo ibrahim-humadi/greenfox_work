@@ -1,11 +1,11 @@
 show folder contents			ls
 show hidden files and folders	ls -a
 change directory/ open folder   cd documents
-open hidden folder				cd .documents
-go to parent folder 			cd ..
-make a folder					mkdir documents videos pictures music
-copy files/folder to folder		cp mycv.file cvfolder
-remove files or folders			rm video.mpg picture.jpg documents
+open hidden folder		cd .documents
+go to parent folder 		cd ..
+make a folder			mkdir documents videos pictures music
+copy files/folder to folder	cp mycv.file cvfolder
+remove files or folders		rm video.mpg picture.jpg documents
 make file executable            chmod 700 scriptname
 arithmatic                      let "var * var"
 variable                        jerry="cat"

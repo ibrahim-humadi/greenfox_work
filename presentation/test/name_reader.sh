@@ -14,8 +14,3 @@ elif [ $pet = "cat" ]; then
 let "catage = $age * 4"
 echo "Very cool, did you know you are $catage years old in cat years?"
 fi
-
-echo -e "what would you like to search?"
-read site
-
-cd \Users\tiglath\Desktop\myFirstWebsite
