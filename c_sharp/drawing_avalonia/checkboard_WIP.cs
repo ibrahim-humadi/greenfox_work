@@ -1,5 +1,3 @@
-//canvas size is 800 / 800
-
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
@@ -19,23 +17,26 @@ namespace DrawingApplication
             var canvas = this.Get<Canvas>("canvas");
             var foxDraw = new FoxDraw(canvas);
 
-			double startX = 100;
-			double startY = 100;
+			double posx = 0;
+			double posy = 0;
+			double size = 20;
+			int row = 0;
 
-			for (int i = 0; i < 3; i++)
+
+			for (row = 0; row <= 20; row++)
 			{
-				CreateSquare(startX, startY, foxDraw);
-				startX += 150;
-				startY += 150;
+				foxDraw.SetFillColor(Colors.Purple);
+				createSquare(posx, posy, size, foxDraw);
+				posx += 20;
+				foxDraw.SetFillColor(Colors.Transparent);
+				createSquare(posx, posy, size, foxDraw);
+				posx += 20;
 			}
 		}
 
-		public void CreateSquare(double x, double y, FoxDraw foxdraw)
+		public void createSquare(double posx, double posy, double size, FoxDraw foxdraw)
 		{
-			foxdraw.DrawLine(x, y, x + 50, y);
-			foxdraw.DrawLine(x, y, x, y + 50);
-			foxdraw.DrawLine(x, y + 50, x + 50, y + 50);
-			foxdraw.DrawLine(x + 50, y, x + 50, y + 50);
+				foxdraw.DrawRectangle(posx, posy, size, size);
 		}
 
 		private void InitializeComponent()

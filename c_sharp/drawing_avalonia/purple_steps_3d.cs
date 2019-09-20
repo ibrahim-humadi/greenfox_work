@@ -19,23 +19,25 @@ namespace DrawingApplication
             var canvas = this.Get<Canvas>("canvas");
             var foxDraw = new FoxDraw(canvas);
 
-			double startX = 100;
-			double startY = 100;
+			double posx = 25;
+			double posy = 25;
+			double size = 25;
+			double multiplier = 1;
 
-			for (int i = 0; i < 3; i++)
+			foxDraw.SetFillColor(Colors.Purple);
+			for (int i = 0; i <= 3; i++)
 			{
-				CreateSquare(startX, startY, foxDraw);
-				startX += 150;
-				startY += 150;
+				CreateSquare(posx, posy, size, foxDraw);
+				posx += 25*multiplier;
+				posy += 25*multiplier;
+				size *= 2;
+				multiplier *= 2;
 			}
 		}
 
-		public void CreateSquare(double x, double y, FoxDraw foxdraw)
+		public void CreateSquare(double posx, double posy, double size, FoxDraw foxdraw)
 		{
-			foxdraw.DrawLine(x, y, x + 50, y);
-			foxdraw.DrawLine(x, y, x, y + 50);
-			foxdraw.DrawLine(x, y + 50, x + 50, y + 50);
-			foxdraw.DrawLine(x + 50, y, x + 50, y + 50);
+				foxdraw.DrawRectangle(posx, posy, size, size);
 		}
 
 		private void InitializeComponent()
