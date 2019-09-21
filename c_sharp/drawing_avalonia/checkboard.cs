@@ -20,18 +20,35 @@ namespace DrawingApplication
 			double posx = 0;
 			double posy = 0;
 			double size = 20;
-			int row = 0;
 
 
-			for (row = 0; row <= 20; row++)
+			for (int row = 0; row < 20; row++)
 			{
-				foxDraw.SetFillColor(Colors.Purple);
-				createSquare(posx, posy, size, foxDraw);
-				posx += 20;
-				foxDraw.SetFillColor(Colors.Transparent);
-				createSquare(posx, posy, size, foxDraw);
-				posx += 20;
+				for (int i = 0; i < 20; i++)
+				{
+					foxDraw.SetFillColor(Colors.Purple);
+					createSquare(posx, posy, size, foxDraw);
+					posx += 20;
+					foxDraw.SetFillColor(Colors.Transparent);
+					createSquare(posx, posy, size, foxDraw);
+					posx += 20;
+				}
+
+				posy += 20;
+
+				for (int j = 0; j < 20; j++)
+				{
+					posx -= 20;
+					foxDraw.SetFillColor(Colors.Purple);
+					createSquare(posx, posy, size, foxDraw);
+					posx -= 20;
+					foxDraw.SetFillColor(Colors.Transparent);
+					createSquare(posx, posy, size, foxDraw);
+				}
+
+				posy += 20;
 			}
+
 		}
 
 		public void createSquare(double posx, double posy, double size, FoxDraw foxdraw)
