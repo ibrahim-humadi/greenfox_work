@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\bin\Debug\netcoreapp2.1\file_io_working_project.deps.json
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\bin\Debug\netcoreapp2.1\file_io_working_project.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\bin\Debug\netcoreapp2.1\file_io_working_project.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\bin\Debug\netcoreapp2.1\file_io_working_project.dll
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\bin\Debug\netcoreapp2.1\file_io_working_project.pdb
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\obj\Debug\netcoreapp2.1\file_io_working_project.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\obj\Debug\netcoreapp2.1\file_io_working_project.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\obj\Debug\netcoreapp2.1\file_io_working_project.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\obj\Debug\netcoreapp2.1\file_io_working_project.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\obj\Debug\netcoreapp2.1\file_io_working_project.dll
+C:\Users\tiglath\projects\c_sharp\file_manipulation_exercises\file_io_working_project\obj\Debug\netcoreapp2.1\file_io_working_project.pdb

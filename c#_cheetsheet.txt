@@ -42,3 +42,40 @@ for (int star = 0; star <= rowstar; star++)
 				{
 					Console.Write("*");
 				}
+
+error message:
+
+throw new Exception("my error message");
+
+try {
+	method
+} catch (Exception error1)
+{
+	Console.Error.WriteLine(error1);
+	Console.WriteLine("I dont care about this error");
+}
+
+wrtie text to a file
+
+File.WriteAllText("./output.txt", "Hello World");		// new file and overwite if already exists
+File.AppendAllText("./output.txt, "Hello Again");		// add to end of the file
+File.AppendAllText("./output.txt, "n/Hello Again");		// add to end of the file in new line
+
+Console.WriteLine($"I dont care about this error" + path);
+
+//Read all text
+string filecontent = File.ReadAllText("./output.txt");
+
+// read all lines
+string[] 
+
+
+// streamReader
+// streamWriter
+//uses System.IO
+
+streamReader sr = new streamReader ("./output.txt")
+
+
+
+35691
