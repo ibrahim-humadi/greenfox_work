@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\bin\Debug\netcoreapp2.1\fleet_of_things.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\bin\Debug\netcoreapp2.1\fleet_of_things.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\bin\Debug\netcoreapp2.1\fleet_of_things.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\bin\Debug\netcoreapp2.1\fleet_of_things.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\bin\Debug\netcoreapp2.1\fleet_of_things.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\obj\Debug\netcoreapp2.1\fleet_of_things.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\obj\Debug\netcoreapp2.1\fleet_of_things.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\obj\Debug\netcoreapp2.1\fleet_of_things.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\obj\Debug\netcoreapp2.1\fleet_of_things.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\obj\Debug\netcoreapp2.1\fleet_of_things.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\fleet_of_things\obj\Debug\netcoreapp2.1\fleet_of_things.pdb

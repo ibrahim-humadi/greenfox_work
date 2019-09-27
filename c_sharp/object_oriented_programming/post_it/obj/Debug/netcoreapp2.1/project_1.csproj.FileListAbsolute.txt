@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\bin\Debug\netcoreapp2.1\project_1.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\bin\Debug\netcoreapp2.1\project_1.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\bin\Debug\netcoreapp2.1\project_1.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\bin\Debug\netcoreapp2.1\project_1.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\bin\Debug\netcoreapp2.1\project_1.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\obj\Debug\netcoreapp2.1\project_1.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\obj\Debug\netcoreapp2.1\project_1.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\obj\Debug\netcoreapp2.1\project_1.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\obj\Debug\netcoreapp2.1\project_1.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\obj\Debug\netcoreapp2.1\project_1.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\project_1\obj\Debug\netcoreapp2.1\project_1.pdb

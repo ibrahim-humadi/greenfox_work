@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\bin\Debug\netcoreapp2.1\counter.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\bin\Debug\netcoreapp2.1\counter.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\bin\Debug\netcoreapp2.1\counter.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\bin\Debug\netcoreapp2.1\counter.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\bin\Debug\netcoreapp2.1\counter.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\obj\Debug\netcoreapp2.1\counter.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\obj\Debug\netcoreapp2.1\counter.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\obj\Debug\netcoreapp2.1\counter.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\obj\Debug\netcoreapp2.1\counter.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\obj\Debug\netcoreapp2.1\counter.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\counter\obj\Debug\netcoreapp2.1\counter.csprojAssemblyReference.cache

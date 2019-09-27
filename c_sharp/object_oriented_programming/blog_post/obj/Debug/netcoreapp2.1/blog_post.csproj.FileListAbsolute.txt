@@ -1,0 +1,10 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\bin\Debug\netcoreapp2.1\blog_post.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\bin\Debug\netcoreapp2.1\blog_post.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\bin\Debug\netcoreapp2.1\blog_post.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\bin\Debug\netcoreapp2.1\blog_post.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\bin\Debug\netcoreapp2.1\blog_post.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\obj\Debug\netcoreapp2.1\blog_post.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\obj\Debug\netcoreapp2.1\blog_post.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\obj\Debug\netcoreapp2.1\blog_post.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\obj\Debug\netcoreapp2.1\blog_post.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\blog_post\obj\Debug\netcoreapp2.1\blog_post.pdb

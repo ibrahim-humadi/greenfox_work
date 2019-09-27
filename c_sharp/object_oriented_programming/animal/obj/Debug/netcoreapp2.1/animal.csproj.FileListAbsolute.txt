@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\bin\Debug\netcoreapp2.1\animal.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\bin\Debug\netcoreapp2.1\animal.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\bin\Debug\netcoreapp2.1\animal.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\bin\Debug\netcoreapp2.1\animal.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\bin\Debug\netcoreapp2.1\animal.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\obj\Debug\netcoreapp2.1\animal.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\obj\Debug\netcoreapp2.1\animal.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\obj\Debug\netcoreapp2.1\animal.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\obj\Debug\netcoreapp2.1\animal.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\obj\Debug\netcoreapp2.1\animal.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\animal\obj\Debug\netcoreapp2.1\animal.pdb

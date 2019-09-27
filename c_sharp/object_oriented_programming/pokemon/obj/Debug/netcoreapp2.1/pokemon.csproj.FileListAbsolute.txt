@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\obj\Debug\netcoreapp2.1\pokemon.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\obj\Debug\netcoreapp2.1\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\obj\Debug\netcoreapp2.1\pokemon.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\obj\Debug\netcoreapp2.1\pokemon.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\bin\Debug\netcoreapp2.1\pokemon.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\bin\Debug\netcoreapp2.1\pokemon.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\bin\Debug\netcoreapp2.1\pokemon.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\bin\Debug\netcoreapp2.1\pokemon.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\bin\Debug\netcoreapp2.1\pokemon.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\obj\Debug\netcoreapp2.1\pokemon.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\pokemon\obj\Debug\netcoreapp2.1\pokemon.pdb

@@ -1,0 +1,10 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\bin\Debug\netcoreapp2.1\sharpie.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\bin\Debug\netcoreapp2.1\sharpie.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\bin\Debug\netcoreapp2.1\sharpie.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\bin\Debug\netcoreapp2.1\sharpie.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\bin\Debug\netcoreapp2.1\sharpie.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\obj\Debug\netcoreapp2.1\sharpie.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\obj\Debug\netcoreapp2.1\sharpie.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\obj\Debug\netcoreapp2.1\sharpie.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\obj\Debug\netcoreapp2.1\sharpie.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\sharpie\obj\Debug\netcoreapp2.1\sharpie.pdb

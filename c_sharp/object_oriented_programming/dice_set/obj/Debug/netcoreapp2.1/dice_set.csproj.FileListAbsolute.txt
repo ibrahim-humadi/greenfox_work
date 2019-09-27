@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\bin\Debug\netcoreapp2.1\dice_set.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\bin\Debug\netcoreapp2.1\dice_set.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\bin\Debug\netcoreapp2.1\dice_set.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\bin\Debug\netcoreapp2.1\dice_set.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\bin\Debug\netcoreapp2.1\dice_set.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\obj\Debug\netcoreapp2.1\dice_set.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\obj\Debug\netcoreapp2.1\dice_set.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\obj\Debug\netcoreapp2.1\dice_set.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\obj\Debug\netcoreapp2.1\dice_set.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\obj\Debug\netcoreapp2.1\dice_set.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dice_set\obj\Debug\netcoreapp2.1\dice_set.pdb
