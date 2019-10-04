@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\bin\Debug\netcoreapp2.1\garden.deps.json
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\bin\Debug\netcoreapp2.1\garden.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\bin\Debug\netcoreapp2.1\garden.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\bin\Debug\netcoreapp2.1\garden.dll
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\bin\Debug\netcoreapp2.1\garden.pdb
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\obj\Debug\netcoreapp2.1\garden.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\obj\Debug\netcoreapp2.1\garden.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\obj\Debug\netcoreapp2.1\garden.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\obj\Debug\netcoreapp2.1\garden.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\obj\Debug\netcoreapp2.1\garden.dll
+C:\Users\tiglath\projects\c_sharp\inheritance\garden\obj\Debug\netcoreapp2.1\garden.pdb

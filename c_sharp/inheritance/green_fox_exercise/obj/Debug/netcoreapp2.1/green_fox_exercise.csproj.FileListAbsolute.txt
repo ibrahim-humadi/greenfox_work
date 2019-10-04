@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\bin\Debug\netcoreapp2.1\green_fox_exercise.deps.json
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\bin\Debug\netcoreapp2.1\green_fox_exercise.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\bin\Debug\netcoreapp2.1\green_fox_exercise.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\bin\Debug\netcoreapp2.1\green_fox_exercise.dll
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\bin\Debug\netcoreapp2.1\green_fox_exercise.pdb
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\obj\Debug\netcoreapp2.1\green_fox_exercise.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\obj\Debug\netcoreapp2.1\green_fox_exercise.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\obj\Debug\netcoreapp2.1\green_fox_exercise.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\obj\Debug\netcoreapp2.1\green_fox_exercise.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\obj\Debug\netcoreapp2.1\green_fox_exercise.dll
+C:\Users\tiglath\projects\c_sharp\inheritance\green_fox_exercise\obj\Debug\netcoreapp2.1\green_fox_exercise.pdb

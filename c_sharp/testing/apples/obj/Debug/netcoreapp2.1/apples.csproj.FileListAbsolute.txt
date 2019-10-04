@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\testing\apples\obj\Debug\netcoreapp2.1\apples.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\testing\apples\obj\Debug\netcoreapp2.1\apples.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\testing\apples\obj\Debug\netcoreapp2.1\apples.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\testing\apples\obj\Debug\netcoreapp2.1\apples.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\testing\apples\bin\Debug\netcoreapp2.1\apples.deps.json
+C:\Users\tiglath\projects\c_sharp\testing\apples\bin\Debug\netcoreapp2.1\apples.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\testing\apples\bin\Debug\netcoreapp2.1\apples.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\testing\apples\bin\Debug\netcoreapp2.1\apples.dll
+C:\Users\tiglath\projects\c_sharp\testing\apples\bin\Debug\netcoreapp2.1\apples.pdb
+C:\Users\tiglath\projects\c_sharp\testing\apples\obj\Debug\netcoreapp2.1\apples.dll
+C:\Users\tiglath\projects\c_sharp\testing\apples\obj\Debug\netcoreapp2.1\apples.pdb

@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\bin\Debug\netcoreapp2.1\dominoes.deps.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\bin\Debug\netcoreapp2.1\dominoes.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\bin\Debug\netcoreapp2.1\dominoes.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\bin\Debug\netcoreapp2.1\dominoes.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\bin\Debug\netcoreapp2.1\dominoes.pdb
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\obj\Debug\netcoreapp2.1\dominoes.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\obj\Debug\netcoreapp2.1\dominoes.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\obj\Debug\netcoreapp2.1\dominoes.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\obj\Debug\netcoreapp2.1\dominoes.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\obj\Debug\netcoreapp2.1\dominoes.dll
+C:\Users\tiglath\projects\c_sharp\object_oriented_programming\dominoes\obj\Debug\netcoreapp2.1\dominoes.pdb
