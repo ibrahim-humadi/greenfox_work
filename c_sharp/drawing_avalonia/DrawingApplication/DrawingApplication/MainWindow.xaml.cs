@@ -14,6 +14,7 @@ namespace DrawingApplication
 {
 	public class MainWindow : Window
 	{
+		int index = 0;
 		public int i = 0;
 		public int x = 0;
 		public int y = 0;
@@ -53,50 +54,18 @@ namespace DrawingApplication
 			
 		}
 
-		public class LoadStuff
-		{
-			public List<Image> loadImages { get; set; }
-			public double corX { get; set; }
-			public double corY { get; set; }
-
-			public LoadStuff()
-			{
-				this.loadImages = new List<Image>();
-				this.corX = corX;
-				this.corY = corY;
-			}
-
-			public void Add(Image image)
-			{
-				loadImages.Add(image);
-			}
-		}
-
 		public void MoveRight()
 		{
+			x += 10;
+			Canvas.SetLeft(myFox, x);
 
-			
-		}
+			myFox.Source = new Bitmap("fox_walk_right_" + index + ".png");
+			Console.WriteLine(index);
+			index++;
 
-
-
-
-		public class UnLoadStuff
-		{
-			public List<Image> unloadImages { get; set; }
-			public double corX { get; set; }
-			public double corY { get; set; }
-
-			public UnLoadStuff()
+			if (index == 7)
 			{
-				this.unloadImages = new List<Image>();
-				this.corX = corX;
-				this.corY = corY;
-			}
-
-			public void Add(Image image)
-			{
-				unloadImages.Add(image);
+				index = 0;
 			}
 		}
 
@@ -105,8 +74,7 @@ namespace DrawingApplication
 			switch (e.Key)
 			{
 				case Key.D:
-					x += 10;
-					Canvas.SetLeft(myFox, x);
+					MoveRight();
 					break;
 				case Key.A:
 					x -= 10;
@@ -125,21 +93,7 @@ namespace DrawingApplication
 
 		public void OnTick()
 		{
-			i++;
-			if (i % 2==0)
-			{
-				//foxDraw.RemoveImage(myFox);
-				//foxDraw.AddImage(myFox, 0 + i * 5, 0 + i * 5);
-				for (int i = 0; i < 8; i++)
-				{
-					myFox.Source = new Bitmap("fox_walk_right_4.png");
-				}
-
-
-			}
-			else
-			{
-			}
+			
 		}
 		private void InitializeComponent()
 		{
