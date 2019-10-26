@@ -76,6 +76,9 @@ string[]
 
 streamReader sr = new streamReader ("./output.txt")
 
+prop + tab +tab = constructor
 
+propfull + tab + tab = field
 
-35691
+alt + shift + enter = fullscreen
+

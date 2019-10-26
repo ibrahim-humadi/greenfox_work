@@ -1,0 +1,10 @@
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\bin\Debug\netcoreapp2.1\linq_square_value_over_twenty.deps.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\bin\Debug\netcoreapp2.1\linq_square_value_over_twenty.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\bin\Debug\netcoreapp2.1\linq_square_value_over_twenty.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\bin\Debug\netcoreapp2.1\linq_square_value_over_twenty.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\bin\Debug\netcoreapp2.1\linq_square_value_over_twenty.pdb
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\obj\Debug\netcoreapp2.1\linq_square_value_over_twenty.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\obj\Debug\netcoreapp2.1\linq_square_value_over_twenty.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\obj\Debug\netcoreapp2.1\linq_square_value_over_twenty.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\obj\Debug\netcoreapp2.1\linq_square_value_over_twenty.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_square_value_over_twenty\obj\Debug\netcoreapp2.1\linq_square_value_over_twenty.pdb

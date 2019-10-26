@@ -1,0 +1,14 @@
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\bin\Debug\netcoreapp2.2\first_asp_dot_net_app.deps.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\bin\Debug\netcoreapp2.2\first_asp_dot_net_app.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\bin\Debug\netcoreapp2.2\first_asp_dot_net_app.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\bin\Debug\netcoreapp2.2\first_asp_dot_net_app.dll
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\bin\Debug\netcoreapp2.2\first_asp_dot_net_app.pdb
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.RazorAssemblyInfo.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.RazorAssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.RazorTargetAssemblyInfo.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.dll
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\first_asp_dot_net_app\obj\Debug\netcoreapp2.2\first_asp_dot_net_app.pdb

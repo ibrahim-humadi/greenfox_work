@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\obj\Debug\netcoreapp2.1\linq_find_the_fox.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\obj\Debug\netcoreapp2.1\linq_find_the_fox.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\obj\Debug\netcoreapp2.1\linq_find_the_fox.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\obj\Debug\netcoreapp2.1\linq_find_the_fox.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\bin\Debug\netcoreapp2.1\linq_find_the_fox.deps.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\bin\Debug\netcoreapp2.1\linq_find_the_fox.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\bin\Debug\netcoreapp2.1\linq_find_the_fox.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\bin\Debug\netcoreapp2.1\linq_find_the_fox.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\bin\Debug\netcoreapp2.1\linq_find_the_fox.pdb
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\obj\Debug\netcoreapp2.1\linq_find_the_fox.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_find_the_fox\obj\Debug\netcoreapp2.1\linq_find_the_fox.pdb

@@ -1,0 +1,37 @@
+﻿@model List<Product>
+
+@{
+
+    ViewData["Title"] = "Home Page";
+}
+
+
+<h1>My Shop</h1>
+<nav>
+    <h2>Only Available</h2>
+    <h2>Cheapest First</h2>
+    <h2>Contains Nike</h2>
+    <h2>Avarage Stock</h2>
+    <h2>Most Expensive Available</h2>
+</nav>
+
+<table>
+    <tr>
+        <td>Name</td>
+        <td>Description</td>
+        <td>Price</td>
+        <td>Quantity of stock</td>
+    </tr>
+
+        @foreach (var product in Model)
+        {
+<tr>
+    <td>@product.Name</td>
+    <td>@product.Description</td>
+    <td>@product.Price</td>
+    <td>@product.Stock</td>
+</tr>
+        }
+
+    
+</table>

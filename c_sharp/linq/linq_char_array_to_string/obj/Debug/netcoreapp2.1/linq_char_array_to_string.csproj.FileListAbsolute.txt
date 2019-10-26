@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\bin\Debug\netcoreapp2.1\linq_char_array_to_string.deps.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\bin\Debug\netcoreapp2.1\linq_char_array_to_string.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\bin\Debug\netcoreapp2.1\linq_char_array_to_string.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\bin\Debug\netcoreapp2.1\linq_char_array_to_string.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\bin\Debug\netcoreapp2.1\linq_char_array_to_string.pdb
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\obj\Debug\netcoreapp2.1\linq_char_array_to_string.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\obj\Debug\netcoreapp2.1\linq_char_array_to_string.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\obj\Debug\netcoreapp2.1\linq_char_array_to_string.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\obj\Debug\netcoreapp2.1\linq_char_array_to_string.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\obj\Debug\netcoreapp2.1\linq_char_array_to_string.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_char_array_to_string\obj\Debug\netcoreapp2.1\linq_char_array_to_string.pdb

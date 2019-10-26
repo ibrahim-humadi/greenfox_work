@@ -101,3 +101,58 @@ namespace DrawingApplication
 		}
 	}
 }
+
+
+
+
+int[,] map = new int[10, 10];
+
+foreach (var row in input.split('/n'))
+
+
+
+@"/home/tiglath.txt"
+
+
+newMap.Add(myFox);
+			newMap.Add(myfox2);
+
+			for (int k = 0; k < 10; k++)
+			{
+				for (int l = 0; l < 10; l++)
+				{
+
+					if (result[k, l] == 0)
+					{
+						Console.Write("0");
+					}
+					else
+					{
+						Console.Write("1");
+					}
+				}
+				Console.WriteLine();
+
+
+int[,] posMapX = new int[10, 10];
+			int xPosition = 0;
+			int yPosition = 0;
+
+			for (int col = 0; col < 10; col++)
+			{
+				for (int row = 0; row < 10; row++)
+				{
+					posMapX[xPosition, yPosition] = xPosition * 72;
+					if (xPosition < 9)
+					{
+						xPosition += 1;
+					}
+					else
+					{
+						xPosition = 0;
+					}
+					
+					Console.WriteLine( xPosition);
+					Console.WriteLine(" equals: " + posMapX[xPosition, yPosition]);
+				}
+			}

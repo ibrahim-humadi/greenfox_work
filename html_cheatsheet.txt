@@ -1,2 +1,40 @@
 <link rel="stylesheet" type="text/css" href="design.css" />
 ^ link stylesheet to html index file
+
+display: inline-block;
+^
+stops table border using all width of screen.
+
+overflow:hidden;
+^
+stops rounded corners spilling over colours in tables.
+
+git branch
+^
+shows branches
+
+aria-role
+aria
+^
+accessibilty
+
+input[type=submit] { }
+^
+target a specific thing
+
+use POST and not GET if collecting any sensitive info
+
+input-type="hidden" with a value=""
+^
+send info in GET without havin to type it in on the webpage.
+
+position: fixed;
+^ will scroll in fixed pos with the browser
+
+flex-wrap:wrap;
+^
+dont take too much space
+
+HTML5 semantic tags - Useful stuff
+
+<section> - 

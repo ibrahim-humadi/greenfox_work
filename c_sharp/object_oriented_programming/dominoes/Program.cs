@@ -9,7 +9,14 @@ namespace dominoes
 		static void Main(string[] args)
 		{
 			var dominoes = InitializeDominoes();
-			Console.WriteLine("Hello World!");
+			int[] myArray = dominoes[0].GetValues();
+
+			for (int i = 0; i < dominoes.Count; i++)
+			{
+				Console.WriteLine(dominoes[i]);
+			}
+
+
 		}
 
 

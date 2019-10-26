@@ -1,0 +1,10 @@
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\obj\Debug\netcoreapp2.1\linq_frequency_char_in_string.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\obj\Debug\netcoreapp2.1\linq_frequency_char_in_string.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\obj\Debug\netcoreapp2.1\linq_frequency_char_in_string.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\bin\Debug\netcoreapp2.1\linq_frequency_char_in_string.deps.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\bin\Debug\netcoreapp2.1\linq_frequency_char_in_string.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\bin\Debug\netcoreapp2.1\linq_frequency_char_in_string.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\bin\Debug\netcoreapp2.1\linq_frequency_char_in_string.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\bin\Debug\netcoreapp2.1\linq_frequency_char_in_string.pdb
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\obj\Debug\netcoreapp2.1\linq_frequency_char_in_string.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_frequency_char_in_string\obj\Debug\netcoreapp2.1\linq_frequency_char_in_string.pdb

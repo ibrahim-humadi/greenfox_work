@@ -1,0 +1,10 @@
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\bin\Debug\netcoreapp2.1\linq_avarage_odd.deps.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\bin\Debug\netcoreapp2.1\linq_avarage_odd.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\bin\Debug\netcoreapp2.1\linq_avarage_odd.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\bin\Debug\netcoreapp2.1\linq_avarage_odd.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\bin\Debug\netcoreapp2.1\linq_avarage_odd.pdb
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\obj\Debug\netcoreapp2.1\linq_avarage_odd.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\obj\Debug\netcoreapp2.1\linq_avarage_odd.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\obj\Debug\netcoreapp2.1\linq_avarage_odd.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\obj\Debug\netcoreapp2.1\linq_avarage_odd.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_avarage_odd\obj\Debug\netcoreapp2.1\linq_avarage_odd.pdb

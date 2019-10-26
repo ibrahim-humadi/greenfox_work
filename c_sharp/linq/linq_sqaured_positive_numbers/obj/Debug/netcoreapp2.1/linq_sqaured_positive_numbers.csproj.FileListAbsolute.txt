@@ -1,0 +1,11 @@
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\bin\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.deps.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\bin\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\bin\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\bin\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\bin\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.pdb
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\obj\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\obj\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\obj\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\obj\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\obj\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.dll
+C:\Users\tiglath\projects\c_sharp\linq\linq_sqaured_positive_numbers\obj\Debug\netcoreapp2.1\linq_sqaured_positive_numbers.pdb
