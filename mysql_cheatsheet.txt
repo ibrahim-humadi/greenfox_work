@@ -1,0 +1,43 @@
+show databases
+^ list databases
+
+create database Greenfox
+^ creates Greenfox database
+
+use Greenfox
+^ work with Greenfox
+
+show tables
+
+create table students (id int(11), name VARCHAR(255), class_id int(11));
+
+DESCRIBE students
+
+INSERT INTO students (id,name,class_id) VALUES (1,"Bob",1);
+
+SELECT * FROM students
+^ view all data
+
+SELCT * FROM students WHERE name="bob";
+^ view all students with name "bob"
+
+SELECT * FROM students INNER JOIN classes ON students.class_id = classes.id;
+^link students: class_id to classes: id
+
+SELECT DISTINCT director FROM movies order by director ASC;
+
+SELECT title FROM movies ORDER BY title LIMIT 5 OFFSET 5;
+
+SELECT city FROM north_american_cities WHERE country = "United States" ORDER BY 
+latitude DESC;
+
+SELECT * FROM north_american_cities where longitude < -87.629798 order by longitude;
+
+SELECT title,domestic_sales,international_sales FROM movies inner join boxoffice on 
+movies.id = boxoffice.movie_id where international_sales > domestic_sales;
+
+SELECT DISTINCT building FROM employees LEFT JOIN buildings ON building = 
+building_name;
+
+SELECT DISTINCT building_name, role FROM buildings LEFT JOIN employees ON 
+building_name = building;

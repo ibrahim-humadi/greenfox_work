@@ -1,0 +1,27 @@
+﻿body {
+    padding:0px;
+    margin:0px;
+}
+
+table, td {
+    border: 1px solid black;
+    border-collapse:collapse;
+    width:200px;
+    height:20px;
+}
+
+nav{
+    height:60px;
+    width:100%;
+    background-color:blue;
+    position:fixed;
+    display:flex;
+    justify-content:space-between;
+    color:white;
+}
+
+#centre_content {
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}

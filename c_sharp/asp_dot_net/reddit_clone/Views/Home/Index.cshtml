@@ -1,0 +1,53 @@
+﻿@using reddit_clone.Models;
+@using Microsoft.EntityFrameworkCore;
+
+@model List<Post>
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" type="text/css" href="~/IndexStyle.css">
+
+<nav>
+    <a href="/home">Rad-It</a>
+    <a href="/add">Add-Post</a>
+    <a href="/login">Log-In</a>
+</nav>
+
+<br />
+<br />
+<br />
+<br />
+
+<div>
+    @foreach (var item in Model)
+    {
+        <table id="centre_content">
+            <tr>
+                <td colspan="1">
+                    @item.Score
+                </td>
+                <td colspan="2">
+                    @item.Title
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    @item.Description
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    @item.Creator.UserName
+                </td>
+                <td colspan="1">
+                    @item.Id
+                </td>
+            </tr>
+        </table>
+        <br />
+        <br />
+    }
+</div>

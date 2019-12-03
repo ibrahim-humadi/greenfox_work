@@ -1,0 +1,36 @@
+﻿@using fox_club.Services;
+@using fox_club.Models
+@model Foxes
+
+@{
+    ViewData["Title"] = "Information";
+}
+
+<h1>Information</h1>
+
+
+
+<table>
+    @foreach (var item in Model.foxes)
+    {
+    <tr>
+        <td>
+            @item.Name
+        </td>
+        <td>
+            @item.Food
+        </td>
+        <td>
+            @item.Drink
+        </td>
+        <td>
+            <form action="/Tricks/" method="POST">
+                <button type="submit">GO</button>
+            </form>
+        </td>
+    </tr>
+    }
+    </table>
+
+
+

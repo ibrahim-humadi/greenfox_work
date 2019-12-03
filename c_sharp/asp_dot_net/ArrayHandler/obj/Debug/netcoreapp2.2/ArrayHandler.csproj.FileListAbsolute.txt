@@ -1,0 +1,16 @@
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\bin\Debug\netcoreapp2.2\ArrayHandler.deps.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\bin\Debug\netcoreapp2.2\ArrayHandler.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\bin\Debug\netcoreapp2.2\ArrayHandler.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\bin\Debug\netcoreapp2.2\ArrayHandler.dll
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\obj\Debug\netcoreapp2.2\ArrayHandler.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\obj\Debug\netcoreapp2.2\ArrayHandler.RazorAssemblyInfo.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\obj\Debug\netcoreapp2.2\ArrayHandler.RazorAssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\obj\Debug\netcoreapp2.2\ArrayHandler.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\obj\Debug\netcoreapp2.2\ArrayHandler.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\obj\Debug\netcoreapp2.2\ArrayHandler.RazorTargetAssemblyInfo.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\bin\Debug\netcoreapp2.2\ArrayHandler.pdb
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\obj\Debug\netcoreapp2.2\ArrayHandler.dll
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\ArrayHandler\obj\Debug\netcoreapp2.2\ArrayHandler.pdb

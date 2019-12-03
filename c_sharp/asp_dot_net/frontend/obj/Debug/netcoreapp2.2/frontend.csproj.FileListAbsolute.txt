@@ -1,0 +1,16 @@
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\bin\Debug\netcoreapp2.2\frontend.deps.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\bin\Debug\netcoreapp2.2\frontend.runtimeconfig.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\bin\Debug\netcoreapp2.2\frontend.runtimeconfig.dev.json
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\bin\Debug\netcoreapp2.2\frontend.dll
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\obj\Debug\netcoreapp2.2\frontend.csprojAssemblyReference.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\obj\Debug\netcoreapp2.2\frontend.RazorAssemblyInfo.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\obj\Debug\netcoreapp2.2\frontend.RazorAssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\obj\Debug\netcoreapp2.2\frontend.AssemblyInfoInputs.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\obj\Debug\netcoreapp2.2\frontend.AssemblyInfo.cs
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\obj\Debug\netcoreapp2.2\frontend.RazorTargetAssemblyInfo.cache
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\bin\Debug\netcoreapp2.2\frontend.pdb
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\obj\Debug\netcoreapp2.2\frontend.dll
+C:\Users\tiglath\projects\c_sharp\asp_dot_net\frontend\obj\Debug\netcoreapp2.2\frontend.pdb

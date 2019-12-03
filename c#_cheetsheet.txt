@@ -82,3 +82,9 @@ propfull + tab + tab = field
 
 alt + shift + enter = fullscreen
 
+[Required]
+
+[DefaultValue(10)]
+
+
+

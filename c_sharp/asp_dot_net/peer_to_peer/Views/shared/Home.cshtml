@@ -1,0 +1,32 @@
+﻿
+@using peer_to_peer.Models
+@model User
+
+@{
+    
+    ViewData["Title"] = "Home";
+}
+
+<link rel="stylesheet" type="text/css" href="~/HomeStyle.css">
+
+
+<h1>Home</h1>
+
+<nav id="navbar">
+    <a href="/registration">Login/Registration</a>
+    <div>
+        @if (Model != null)
+        {
+            <p>Current User: </p>
+            @Model.Username
+        }
+    </div>
+</nav>
+
+<form action="postmsg" method="post">
+    Message: <input type="text" name="message">
+    <br />
+    <input type="submit" value="Submit">
+</form>
+
+
