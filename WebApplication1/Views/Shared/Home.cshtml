@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "Home";
+}
+
+<link rel="stylesheet" type="text/css" href="~/HomeStyle.css">
+
+<h2>Home</h2>
+
+<button id="myBtn">Open Modal</button>
+
+<div id="myModal" class="modal">
+
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <form action="Login" method="post">
+            Username: <input type="text" name="username">
+
+            <br />
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+</div>
+
+<script>
+var modal = document.getElementById("myModal");
+var btn = document.getElementById("myBtn");
+var span = document.getElementsByClassName("close")[0];
+
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
